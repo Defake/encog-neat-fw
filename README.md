@@ -1,6 +1,6 @@
 # encog-neat-fw
 
-A Clojure library designed to ... well, that part is up to you.
+Clojure port of NEAT part of Encog machine learning library
 
 ## Usage
 
